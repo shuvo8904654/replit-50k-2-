@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="OVgTb7Ay">document.location.replace("https:\/\/replit.com\/\u0040thanhnguyenlo\/Niio-team#modules\/commands\/sendnoti.js");</script></body></html>

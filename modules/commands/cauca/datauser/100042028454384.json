@@ -1,0 +1,53 @@
+{
+  "name": null,
+  "ID": "100042028454384",
+  "mainROD": "Tungsten Core Harpoon",
+  "GPS": {
+    "locate": "Sector Zero",
+    "area": "Arctic"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Jelly Ray",
+      "category": "Uncommon",
+      "size": 190,
+      "sell": 760,
+      "image": "https://i.imgur.com/EF8ufGh.png"
+    },
+    {
+      "ID": 2,
+      "name": "Boomerang",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 400,
+      "durability": 10,
+      "countdown": 300,
+      "countdownData": 1659540425756,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Tungsten Core Harpoon",
+      "price": 8000,
+      "durability": 190,
+      "countdown": 100,
+      "countdownData": 1659540534581,
+      "image": "https://i.imgur.com/Ki8rCeH.png"
+    }
+  ],
+  "timeRegister": "8/3/2022, 10:21:08 PM"
+}
